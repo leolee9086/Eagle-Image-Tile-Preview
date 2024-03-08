@@ -1,0 +1,17 @@
+{
+	"id": "20240309pingpuyulan",
+    "version": "1.0.0",
+	"platform": "all",
+	"arch": "all",
+    "name": "图片平铺预览",
+    "logo": "/logo.png",
+    "keywords": [],
+	"devTools": false,
+    "main":
+    {
+        "url": "index.html",
+        "width": 640,
+        "height": 480,
+        "alwaysOnTop": true
+    }
+}
